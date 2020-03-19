@@ -1,0 +1,636 @@
+{
+  "code": "0",
+  "data": {
+    "advertesPicture": {
+      "PICTURE_ADDRESS": "https://images.baixingliangfan.cn/advertesPicture/20200220/20200220141922_8877.jpg",
+      "TO_PLACE": "1",
+      "urlType": 0
+    },
+    "category": [
+      {
+        "bxMallSubDto": [
+          {
+            "comments": null,
+            "mallCategoryId": "2c9f6c946cd22d7b016cd74220b70040",
+            "mallSubId": "2c9f6c946cd22d7b016cd7426d700041",
+            "mallSubName": "时令鲜果"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd74220b70040",
+            "mallSubId": "2c9f6c946cd22d7b016cd74363590044",
+            "mallSubName": "每日菜品"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd74220b70040",
+            "mallSubId": "2c9f6c946cd22d7b016cd74395270045",
+            "mallSubName": "放心肉品"
+          },
+          {
+            "comments": null,
+            "mallCategoryId": "2c9f6c946cd22d7b016cd74220b70040",
+            "mallSubId": "2c9f6c946cd22d7b016cd74296740042",
+            "mallSubName": "水产海鲜"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd74220b70040",
+            "mallSubId": "2c9f6c946cd22d7b016cd742bebc0043",
+            "mallSubName": "蛋品"
+          },
+          {
+            "comments": null,
+            "mallCategoryId": "2c9f6c946cd22d7b016cd74220b70040",
+            "mallSubId": "2c9f6c9470603568017060b2900b0122",
+            "mallSubName": "干果干货"
+          }
+        ],
+        "comments": null,
+        "image": "https://images.baixingliangfan.cn/firstCategoryPicture/20200202/20200202155904_2695.png",
+        "mallCategoryId": "2c9f6c946cd22d7b016cd74220b70040",
+        "mallCategoryName": "甄选生鲜"
+      },
+      {
+        "bxMallSubDto": [
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd732f0f6002f",
+            "mallSubId": "2c9f6c946cd22d7b016cd73f054e0037",
+            "mallSubName": "火锅套餐"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd732f0f6002f",
+            "mallSubId": "2c9f6c946cf61d5f016d1058e025018f",
+            "mallSubName": "米面油套餐"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd732f0f6002f",
+            "mallSubId": "2c9f6c946cd22d7b016cd73dba110031",
+            "mallSubName": "袋米"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd732f0f6002f",
+            "mallSubId": "2c9f6c946cd22d7b016cd73deb530032",
+            "mallSubName": "袋面"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd732f0f6002f",
+            "mallSubId": "2c9f6c946cd22d7b016cd73e15120033",
+            "mallSubName": "挂面"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd732f0f6002f",
+            "mallSubId": "2c9f6c946cd22d7b016cd73e4e400034",
+            "mallSubName": "方便自热"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd732f0f6002f",
+            "mallSubId": "2c9f6c946cd22d7b016cd73e8d220035",
+            "mallSubName": "食油"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd732f0f6002f",
+            "mallSubId": "2c9f6c946cd22d7b016cd73ed3800036",
+            "mallSubName": "五谷类"
+          }
+        ],
+        "comments": null,
+        "image": "https://images.baixingliangfan.cn/firstCategoryPicture/20200214/20200214170112_9116.png",
+        "mallCategoryId": "2c9f6c946cd22d7b016cd732f0f6002f",
+        "mallCategoryName": "粮油常备"
+      },
+      {
+        "bxMallSubDto": [
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd747e4bb0046",
+            "mallSubId": "2c9f6c946cd22d7b016cd748f291004b",
+            "mallSubName": "可口可乐专区"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd747e4bb0046",
+            "mallSubId": "2c9f6c946cd22d7b016cd74823f60047",
+            "mallSubName": "国产乳品"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd747e4bb0046",
+            "mallSubId": "2c9f6c946cd22d7b016cd7486db10048",
+            "mallSubName": "水茶饮"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd747e4bb0046",
+            "mallSubId": "2c9f6c946cd22d7b016cd74891850049",
+            "mallSubName": "进口乳品"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd747e4bb0046",
+            "mallSubId": "2c9f6c946cd22d7b016cd748bcdb004a",
+            "mallSubName": "碳酸机能"
+          }
+        ],
+        "comments": null,
+        "image": "https://images.baixingliangfan.cn/firstCategoryPicture/20200202/20200202155913_64.png",
+        "mallCategoryId": "2c9f6c946cd22d7b016cd747e4bb0046",
+        "mallCategoryName": "饮料乳品"
+      },
+      {
+        "bxMallSubDto": [
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946449ea7e01647ccfddb3001e",
+            "mallSubId": "2c9f6c946449ea7e01647dc51d93003c",
+            "mallSubName": "饼干糕点"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946449ea7e01647ccfddb3001e",
+            "mallSubId": "2c9f6c946449ea7e01647dd204dc0040",
+            "mallSubName": "冲调保健"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946449ea7e01647ccfddb3001e",
+            "mallSubId": "2c9f6c946449ea7e01647dd22f760041",
+            "mallSubName": "蜜饯干果"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946449ea7e01647ccfddb3001e",
+            "mallSubId": "2c9f6c946449ea7e01647dd254530042",
+            "mallSubName": "休闲零食"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946449ea7e01647ccfddb3001e",
+            "mallSubId": "2c9f6c94679b4fb10167f7fa132b15e7",
+            "mallSubName": "糖果巧克力"
+          }
+        ],
+        "comments": null,
+        "image": "https://images.baixingliangfan.cn/firstCategoryPicture/20200202/20200202155923_721.png",
+        "mallCategoryId": "2c9f6c946449ea7e01647ccfddb3001e",
+        "mallCategoryName": "休闲食品"
+      },
+      {
+        "bxMallSubDto": [
+          {
+            "comments": "",
+            "mallCategoryId": "2",
+            "mallSubId": "2c9f6c94679b4fb10167f7e5c9a115dc",
+            "mallSubName": "火锅食材"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2",
+            "mallSubId": "2c9f6c9460337d540160337fefd60000",
+            "mallSubName": "水饺馄饨"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2",
+            "mallSubId": "402880e86016d1b5016016e083f10010",
+            "mallSubName": "冷冻面点"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2",
+            "mallSubId": "402880e86016d1b5016016df1f92000c",
+            "mallSubName": "熟食肉肠"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2",
+            "mallSubId": "2c9f6c94621970a801626a40feac0178",
+            "mallSubName": "汤圆"
+          }
+        ],
+        "comments": null,
+        "image": "https://images.baixingliangfan.cn/firstCategoryPicture/20190131/20190131170053_878.png",
+        "mallCategoryId": "2",
+        "mallCategoryName": "冷冻冷藏"
+      },
+      {
+        "bxMallSubDto": [
+          {
+            "comments": "",
+            "mallCategoryId": "3",
+            "mallSubId": "2c9f6c946f542d05016f558e8d3b0015",
+            "mallSubName": "酱油"
+          },
+          {
+            "comments": null,
+            "mallCategoryId": "3",
+            "mallSubId": "2c9f6c947009fa1801700e25c4cd018f",
+            "mallSubName": "食醋"
+          },
+          {
+            "comments": null,
+            "mallCategoryId": "3",
+            "mallSubId": "2c9f6c947009fa1801700e263de50190",
+            "mallSubName": "调味油"
+          },
+          {
+            "comments": null,
+            "mallCategoryId": "3",
+            "mallSubId": "2c9f6c946f542d05016f559152080017",
+            "mallSubName": "调味料"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "3",
+            "mallSubId": "2c9f6c946f542d05016f559191b10018",
+            "mallSubName": "盐/糖"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "3",
+            "mallSubId": "2c9f6c946f542d05016f5591c6cb0019",
+            "mallSubName": "佐餐酱"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "3",
+            "mallSubId": "402880e86016d1b5016016e171cc0012",
+            "mallSubName": "腌制品"
+          },
+          {
+            "comments": null,
+            "mallCategoryId": "3",
+            "mallSubId": "2c9f6c946f542d05016f5591ffdc001a",
+            "mallSubName": "罐头"
+          },
+          {
+            "comments": null,
+            "mallCategoryId": "3",
+            "mallSubId": "2c9f6c946f542d05016f55922ab5001b",
+            "mallSubName": "精品干货"
+          },
+          {
+            "comments": null,
+            "mallCategoryId": "3",
+            "mallSubId": "2c9f6c946f542d05016f5592654d001c",
+            "mallSubName": "方便食品"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "3",
+            "mallSubId": "402880e86016d1b5016016e135440011",
+            "mallSubName": "烹饪油"
+          }
+        ],
+        "comments": null,
+        "image": "https://images.baixingliangfan.cn/firstCategoryPicture/20190131/20190131170101_6957.png",
+        "mallCategoryId": "3",
+        "mallCategoryName": "调味干货"
+      },
+      {
+        "bxMallSubDto": [
+          {
+            "comments": "",
+            "mallCategoryId": "1",
+            "mallSubId": "2c9f6c946016ea9b016016f79c8e0000",
+            "mallSubName": "蜂蜜"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "1",
+            "mallSubId": "2c9f6c946449ea7e01647cd706a60023",
+            "mallSubName": "奶粉"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "1",
+            "mallSubId": "2c9f6c94608ff843016095163b8c0177",
+            "mallSubName": "滋补营养"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "1",
+            "mallSubId": "2c9f6c946449ea7e01647cd6830e0022",
+            "mallSubName": "冲调饮品"
+          }
+        ],
+        "comments": null,
+        "image": "https://images.baixingliangfan.cn/firstCategoryPicture/20190131/20190131170044_9165.png",
+        "mallCategoryId": "1",
+        "mallCategoryName": "营养保健"
+      },
+      {
+        "bxMallSubDto": [
+          {
+            "comments": "",
+            "mallCategoryId": "4",
+            "mallSubId": "2c9f6c94621970a801626a35cb4d0175",
+            "mallSubName": "美酒佳酿"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "4",
+            "mallSubId": "2c9f6c94621970a801626a363e5a0176",
+            "mallSubName": "葡萄酒"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "4",
+            "mallSubId": "2c9f6c94621970a801626a3770620177",
+            "mallSubName": "进口啤酒"
+          },
+          {
+            "comments": null,
+            "mallCategoryId": "4",
+            "mallSubId": "2c9f6c94679b4fb10167f7cc035c15a8",
+            "mallSubName": "其他酒"
+          }
+        ],
+        "comments": null,
+        "image": "https://images.baixingliangfan.cn/firstCategoryPicture/20190131/20190131170036_4477.png",
+        "mallCategoryId": "4",
+        "mallCategoryName": "甄选名酒"
+      },
+      {
+        "bxMallSubDto": [
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd73fa6de0038",
+            "mallSubId": "2c9f6c946cd22d7b016cd741790d003e",
+            "mallSubName": "卫生巾"
+          },
+          {
+            "comments": null,
+            "mallCategoryId": "2c9f6c946cd22d7b016cd73fa6de0038",
+            "mallSubId": "2c9f6c947050cadd017055f83c4a0c10",
+            "mallSubName": "纸尿裤"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd73fa6de0038",
+            "mallSubId": "2c9f6c946cd22d7b016cd741a146003f",
+            "mallSubName": "文体玩具"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd73fa6de0038",
+            "mallSubId": "2c9f6c946cd22d7b016cd7413722003d",
+            "mallSubName": "家庭清洁"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd73fa6de0038",
+            "mallSubId": "2c9f6c946cd22d7b016cd7404c94003a",
+            "mallSubName": "洗化护肤"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd73fa6de0038",
+            "mallSubId": "2c9f6c946cd22d7b016cd740d6b3003b",
+            "mallSubName": "生活纸品"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd73fa6de0038",
+            "mallSubId": "2c9f6c946cd22d7b016cd7410063003c",
+            "mallSubName": "日杂用品"
+          },
+          {
+            "comments": null,
+            "mallCategoryId": "2c9f6c946cd22d7b016cd73fa6de0038",
+            "mallSubId": "2c9f6c947050cadd017055f889510c16",
+            "mallSubName": "厨房用品"
+          },
+          {
+            "comments": "",
+            "mallCategoryId": "2c9f6c946cd22d7b016cd73fa6de0038",
+            "mallSubId": "2c9f6c947050cadd017055f8daeb0c18",
+            "mallSubName": "针织服饰"
+          }
+        ],
+        "comments": null,
+        "image": "https://images.baixingliangfan.cn/firstCategoryPicture/20200202/20200202155854_1667.png",
+        "mallCategoryId": "2c9f6c946cd22d7b016cd73fa6de0038",
+        "mallCategoryName": "日用百货"
+      },
+      {
+        "bxMallSubDto": [
+          {
+            "comments": null,
+            "mallCategoryId": "2c9f6c947060356801706a43a3d909d5",
+            "mallSubId": "2c9f6c947060356801706a43ece809d6",
+            "mallSubName": "家纺用品"
+          },
+          {
+            "comments": null,
+            "mallCategoryId": "2c9f6c947060356801706a43a3d909d5",
+            "mallSubId": "2c9f6c947060356801706a449ccf09d7",
+            "mallSubName": "内衣"
+          },
+          {
+            "comments": null,
+            "mallCategoryId": "2c9f6c947060356801706a43a3d909d5",
+            "mallSubId": "2c9f6c947060356801706a45485209d8",
+            "mallSubName": "服装"
+          },
+          {
+            "comments": null,
+            "mallCategoryId": "2c9f6c947060356801706a43a3d909d5",
+            "mallSubId": "2c9f6c947060356801706a45714609d9",
+            "mallSubName": "服饰配饰"
+          },
+          {
+            "comments": null,
+            "mallCategoryId": "2c9f6c947060356801706a43a3d909d5",
+            "mallSubId": "2c9f6c947060356801706a46737409db",
+            "mallSubName": "男鞋女鞋"
+          }
+        ],
+        "comments": null,
+        "image": "https://images.baixingliangfan.cn/firstCategoryPicture/20200222/20200222081940_6858.png",
+        "mallCategoryId": "2c9f6c947060356801706a43a3d909d5",
+        "mallCategoryName": "针织服饰"
+      }
+    ],
+    "floor1": [
+      {
+        "goodsId": null,
+        "image": "https://images.baixingliangfan.cn/homeFloor/20200211/20200211231953_6680.jpg"
+      },
+      {
+        "goodsId": null,
+        "image": "https://images.baixingliangfan.cn/homeFloor/20200211/20200211225617_7409.jpg"
+      },
+      {
+        "goodsId": null,
+        "image": "https://images.baixingliangfan.cn/homeFloor/20200211/20200211225627_1300.jpg"
+      },
+      {
+        "goodsId": null,
+        "image": "https://images.baixingliangfan.cn/homeFloor/20200211/20200211225637_8206.jpg"
+      },
+      {
+        "goodsId": null,
+        "image": "https://images.baixingliangfan.cn/homeFloor/20200211/20200211225645_1351.jpg"
+      }
+    ],
+    "floor1Pic": {
+      "PICTURE_ADDRESS": "https://images.baixingliangfan.cn/advertesPicture/20200202/20200202093038_629.jpg",
+      "TO_PLACE": "2c9f6c946cd22d7b016cd732f0f6002f",
+      "urlType": 0
+    },
+    "floor2": [
+      {
+        "goodsId": null,
+        "image": "https://images.baixingliangfan.cn/homeFloor/20200211/20200211223330_6332.jpg"
+      },
+      {
+        "goodsId": null,
+        "image": "https://images.baixingliangfan.cn/homeFloor/20200211/20200211225655_4390.jpg"
+      },
+      {
+        "goodsId": null,
+        "image": "https://images.baixingliangfan.cn/homeFloor/20200211/20200211225705_8673.jpg"
+      },
+      {
+        "goodsId": "7fd75f3d623d4d2bb0a5862b67299759",
+        "image": "https://images.baixingliangfan.cn/homeFloor/20200211/20200211225719_6597.jpg"
+      },
+      {
+        "goodsId": null,
+        "image": "https://images.baixingliangfan.cn/homeFloor/20200211/20200211225729_8492.jpg"
+      }
+    ],
+    "floor2Pic": {
+      "PICTURE_ADDRESS": "https://images.baixingliangfan.cn/advertesPicture/20200202/20200202093048_5906.jpg",
+      "TO_PLACE": "2c9f6c946cd22d7b016cd732f0f6002f",
+      "urlType": 0
+    },
+    "floor3": [
+      {
+        "goodsId": "5e62bcdb2e0744c3b8257b3aed5a435a",
+        "image": "https://images.baixingliangfan.cn/homeFloor/20200211/20200211223459_8680.jpg"
+      },
+      {
+        "goodsId": "b38b6d0b7be14216a70f3a509995e1f1",
+        "image": "https://images.baixingliangfan.cn/homeFloor/20200211/20200211225739_7879.jpg"
+      },
+      {
+        "goodsId": null,
+        "image": "https://images.baixingliangfan.cn/homeFloor/20200211/20200211225806_1086.jpg"
+      },
+      {
+        "goodsId": null,
+        "image": "https://images.baixingliangfan.cn/homeFloor/20200211/20200211225813_9186.jpg"
+      },
+      {
+        "goodsId": null,
+        "image": "https://images.baixingliangfan.cn/homeFloor/20200211/20200211225821_9984.jpg"
+      }
+    ],
+    "floor3Pic": {
+      "PICTURE_ADDRESS": "https://images.baixingliangfan.cn/advertesPicture/20200202/20200202093100_7566.jpg",
+      "TO_PLACE": "2c9f6c946cd22d7b016cd732f0f6002f",
+      "urlType": 0
+    },
+    "floorName": {
+      "floor1": "特产礼盒",
+      "floor2": "甄选水果",
+      "floor3": "酒！便宜"
+    },
+    "integralMallPic": {
+      "PICTURE_ADDRESS": "https://images.baixingliangfan.cn/advertesPicture/20191021/20191021154502_1594.png",
+      "TO_PLACE": "1",
+      "urlType": 0
+    },
+    "newUser": {
+      "PICTURE_ADDRESS": "https://images.baixingliangfan.cn/advertesPicture/20191125/20191125111020_32.png",
+      "TO_PLACE": "1",
+      "urlType": 0
+    },
+    "recommend": [
+      {
+        "goodsId": "2619a9a41550418eb7428c39643b3e51",
+        "goodsName": "妙香草莓（盒）约400g",
+        "image": "https://images.baixingliangfan.cn/compressedPic/20200215165402_2056.jpg",
+        "mallPrice": 18.0,
+        "price": 18.0
+      },
+      {
+        "goodsId": "4163328db41641d4bfe55cb145658687",
+        "goodsName": "伊利安慕希酸奶原味205g*12",
+        "image": "https://images.baixingliangfan.cn/compressedPic/20200202001237_305.jpg",
+        "mallPrice": 54.8,
+        "price": 54.8
+      },
+      {
+        "goodsId": "514069bf31794634a7a7445a452bb0d5",
+        "goodsName": "吉香居风味豆豉+风味豆豉促销装210g",
+        "image": "https://images.baixingliangfan.cn/compressedPic/20191230171218_8533.jpg",
+        "mallPrice": 13.9,
+        "price": 13.9
+      },
+      {
+        "goodsId": "6d26a411e107445aab673b61143fc6b3",
+        "goodsName": "海南陵水圣女果（约6斤装）",
+        "image": "https://images.baixingliangfan.cn/compressedPic/20200109184322_5259.jpg",
+        "mallPrice": 35.0,
+        "price": 35.0
+      },
+      {
+        "goodsId": "a67d414315ae48c692c61a2c8e86a44f",
+        "goodsName": "伽娜水解胶原精华面膜30ml*10片（2盒）",
+        "image": "https://images.baixingliangfan.cn/compressedPic/20200222151859_9085.jpg",
+        "mallPrice": 89.0,
+        "price": 89.0
+      }
+    ],
+    "reservationGoods": [
+    ],
+    "saoma": {
+      "PICTURE_ADDRESS": "https://images.baixingliangfan.cn/advertesPicture/20191225/20191225170818_7737.png",
+      "TO_PLACE": "1",
+      "urlType": 0
+    },
+    "shopInfo": {
+      "leaderImage": "https://images.baixingliangfan.cn/leaderImage/20200216/20200216105041_2253.jpg",
+      "leaderPhone": "16639376855"
+    },
+    "slides": [
+      {
+        "goodsId": "d8ebe631d4744275a06b0c49bc374d53",
+        "image": "https://images.baixingliangfan.cn/advertesPicture/20200216/20200216112637_5618.jpg",
+        "urlType": 0
+      },
+      {
+        "goodsId": "29fb5565eee74bce92ffa4a5c1369bf7",
+        "image": "https://images.baixingliangfan.cn/advertesPicture/20200220/20200220183535_9949.jpg",
+        "urlType": 0
+      },
+      {
+        "goodsId": "23e7be7b19cb4b5b8a10a8bef62f91dc",
+        "image": "https://images.baixingliangfan.cn/advertesPicture/20200211/20200211195156_6552.jpg",
+        "urlType": 0
+      },
+      {
+        "goodsId": "6d26a411e107445aab673b61143fc6b3",
+        "image": "https://images.baixingliangfan.cn/advertesPicture/20200211/20200211195233_4363.jpg",
+        "urlType": 0
+      }
+    ],
+    "toShareCode": {
+      "PICTURE_ADDRESS": "http://images.baixingliangfan.cn/advertesPicture/20180629/20180629125808_7351.png",
+      "TO_PLACE": "1",
+      "urlType": 0
+    }
+  },
+  "message": "success"
+}

@@ -1,0 +1,146 @@
+{
+  "code": "0",
+  "message": "success",
+  "data": [
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20200226104929_1370.jpg",
+      "oriPrice": 1,
+      "presentPrice": 0.9,
+      "goodsName": "糖糕",
+      "goodsId": "38b856b64b644f4b86330cb61ea713b0"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20200224154701_8680.jpg",
+      "oriPrice": 4,
+      "presentPrice": 1,
+      "goodsName": "树上山楂果汁果肉饮料350ml",
+      "goodsId": "419fdbc4d4444f84ac2b559c84f98eef"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20200224154710_5077.jpg",
+      "oriPrice": 4,
+      "presentPrice": 1,
+      "goodsName": "隐雪维+纤维蓝莓味饮料591ml",
+      "goodsId": "42d9229c33604ccfb8a7fafe47dc50f2"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20200224160150_9588.jpg",
+      "oriPrice": 9.9,
+      "presentPrice": 1,
+      "goodsName": "馥佩洗手液500ML",
+      "goodsId": "61c7edfcb49b42718e09c9253a2928b3"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20200225113531_3198.jpg",
+      "oriPrice": 4.5,
+      "presentPrice": 1,
+      "goodsName": "三得利特爽啤酒8°500ml",
+      "goodsId": "63c5c8bd7c6e492fb2eac7086ccbd081"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20200213105329_2065.jpg",
+      "oriPrice": 1,
+      "presentPrice": 1,
+      "goodsName": "金锣辣脆脆香肠32g",
+      "goodsId": "8c48aaa3970740899a0b22909966498f"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20190121101250_3231.jpg",
+      "oriPrice": 1.21,
+      "presentPrice": 1.1,
+      "goodsName": "汉德百士菠萝啤500ml",
+      "goodsId": "80a28efdb16b4fa29884095ef1399a7e"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20200208170356_1498.jpg",
+      "oriPrice": 1.5,
+      "presentPrice": 1.5,
+      "goodsName": "卫群精纯加碘食用盐400g",
+      "goodsId": "3dd1afffb45e4de193a69e6419a339fd"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20190116161349_2735.jpg",
+      "oriPrice": 1.6,
+      "presentPrice": 1.6,
+      "goodsName": "今麦郎凉白开500ml",
+      "goodsId": "63ac261a8a964ad2b68c10df50f132db"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20190116160606_7101.jpg",
+      "oriPrice": 1.6,
+      "presentPrice": 1.6,
+      "goodsName": "农夫山泉天然水550ml",
+      "goodsId": "63d54204ce244418ac05aec800190cef"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20200222163225_173.jpg",
+      "oriPrice": 1.8,
+      "presentPrice": 1.8,
+      "goodsName": "乌江美味萝卜干60g",
+      "goodsId": "8babf3f984d6404cb25733c2e76e83c2"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20200209171115_138.jpg",
+      "oriPrice": 1.8,
+      "presentPrice": 1.8,
+      "goodsName": "中天1粒脱皮卤蛋35g",
+      "goodsId": "a6d6ec64a1674079bc75d7137f7a2a68"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20200224180542_4905.jpg",
+      "oriPrice": 5,
+      "presentPrice": 1.9,
+      "goodsName": "客拉客小香槟饮料330ml",
+      "goodsId": "131aaccbb7af4b07ba3b5c4bc8ff7f85"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20200220142610_589.jpg",
+      "oriPrice": 1.9,
+      "presentPrice": 1.9,
+      "goodsName": "鹤壁特产缠丝蛋50克",
+      "goodsId": "196c7264f6774b9aae1041cef0258836"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20200220102845_3106.jpg",
+      "oriPrice": 1.9,
+      "presentPrice": 1.9,
+      "goodsName": "双叶808橡皮(3块装）",
+      "goodsId": "8c148bd0f0404515a898919eaca64968"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20200222101108_4903.jpg",
+      "oriPrice": 1.9,
+      "presentPrice": 1.9,
+      "goodsName": "老余叔海鸭蛋（60克）",
+      "goodsId": "f18d9358e9254712b1adaceb217ce4c1"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20180713181132_7327.jpg",
+      "oriPrice": 1.96,
+      "presentPrice": 1.96,
+      "goodsName": "散生菜约2斤",
+      "goodsId": "b70d8f91b463427e8a1329328a1d0a63"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20200222134449_2839.jpg",
+      "oriPrice": 2,
+      "presentPrice": 2,
+      "goodsName": "卫群精纯未加碘食用盐400g",
+      "goodsId": "560484ddcafa47e39296eae2042d8719"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20200210181859_8667.jpg",
+      "oriPrice": 2,
+      "presentPrice": 2,
+      "goodsName": "天凤夹心糖90g",
+      "goodsId": "94ed187b210a4cf0b1379c2cb0e851ad"
+    },
+    {
+      "image": "https://images.baixingliangfan.cn/compressedPic/20180713170352_746.jpg",
+      "oriPrice": 2.36,
+      "presentPrice": 2.36,
+      "goodsName": "散菠菜约2斤",
+      "goodsId": "c28c1b07e91a49f191c7acebeb1396c3"
+    }
+  ]
+}
